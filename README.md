@@ -1,2 +1,2 @@
-# titanic
-EDA on titanic data set
+# machine learning
+
