@@ -1,2 +1,3 @@
-# machine learning
-Python libraries used - Pandas, Numpy, Matplotlib, Scikit-Learn
+# Machine Learning
+## Python libraries - 
+   Pandas, Numpy, Matplotlib, Scikit-Learn
